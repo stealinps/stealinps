@@ -7,4 +7,4 @@ I work close to the metal: firmware, microcontrollers, physical design, and the 
 
 
  </br>
------C/C++----------Git--------FreeCAD--------Neovim-----
+-----C/C++----------Git----------FreeCAD---------Neovim-----
